@@ -5,8 +5,8 @@ Set of headers used by Citra for dynamically linked libraries. Compared to inclu
 ## Base Libraries
 
 * fdk-aac
-  * Version: 2.0.2
-  * Source: https://github.com/mstorsjo/fdk-aac/tree/v2.0.2
+  * Version: 2.0.3
+  * Source: https://github.com/mstorsjo/fdk-aac/tree/v2.0.3
   * Packages: https://archlinux.org/packages/extra/x86_64/libfdk-aac
 * FFmpeg
   * Version: 6.0
