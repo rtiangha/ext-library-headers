@@ -9,8 +9,8 @@ Set of headers used by Citra for dynamically linked libraries. Compared to inclu
   * Source: https://github.com/mstorsjo/fdk-aac/tree/v2.0.3
   * Packages: https://archlinux.org/packages/extra/x86_64/libfdk-aac
 * FFmpeg
-  * Version: 7.0.2
-  * Source: https://github.com/FFmpeg/FFmpeg/tree/n7.0.2
+  * Version: 7.1-2
+  * Source: https://github.com/FFmpeg/FFmpeg/tree/release/7.1
   * Packages: https://archlinux.org/packages/extra/x86_64/ffmpeg
 
 ## Updating
